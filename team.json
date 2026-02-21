@@ -163,15 +163,6 @@
             "YouTube": "UCdv8M053mWGyN7PFRO_6Ctw"
          },
          {
-            "Name": "AFriendlyPug",
-            "ProfilePicture": "afriendlypug.png",
-            "Discord": "162708179732529154",
-            "GitHub": null,
-            "Twitch": "afriendlypug",
-            "Twitter": "AFriendlyPug",
-            "YouTube": "UCRoJy_hQoDIJAsRQZLxYeXA"
-         },
-         {
             "Name": "Qwasyx",
             "ProfilePicture": "gayqwasyx.png",
             "Discord": "267411994821394432",
@@ -356,15 +347,6 @@
             "YouTube": null
          },
          {
-            "Name": "Jabob",
-            "ProfilePicture": "jabobmariostyle.gif",
-            "Discord": "195639236672618496",
-            "GitHub": null,
-            "Twitch": "jaboooooob",
-            "Twitter": "JabobGaming",
-            "YouTube": "UCV1IPe4PueopMUbQdRcj3gg"
-         },
-         {
             "Name": "Komeijisan051",
             "ProfilePicture": "Komeiji.png",
             "Discord": "682402385829691393",
@@ -416,6 +398,15 @@
             "GitHub": null,
             "Twitch": "olafstad",
             "Twitter": "olaf_stadhouder",
+            "YouTube": null
+         },
+         {
+            "Name": "Potassium 737",
+            "ProfilePicture": "potassium.jpg",
+            "Discord": "823564073547464795",
+            "GitHub": null,
+            "Twitch": "potassium737",
+            "Twitter": null,
             "YouTube": null
          },
          {
@@ -637,15 +628,6 @@
             "YouTube": null
          },
          {
-            "Name": "Jabob",
-            "ProfilePicture": "jabobmariostyle.gif",
-            "Discord": "195639236672618496",
-            "GitHub": null,
-            "Twitch": "jaboooooob",
-            "Twitter": "JabobGaming",
-            "YouTube": "UCV1IPe4PueopMUbQdRcj3gg"
-         },
-         {
             "Name": "Joshabi",
             "ProfilePicture": "joshabi.png",
             "Discord": "169894107517419520",
@@ -830,6 +812,15 @@
             "YouTube": "UCBUYiHKQpEa12CKu-Gx3U9g"
          },
          {
+            "Name": "HondorusOptix",
+            "ProfilePicture": "HondorusOptix.png",
+            "Discord": "589583533341671443",
+            "GitHub": null,
+            "Twitch": null,
+            "Twitter": null,
+            "YouTube": "UC-5smhZ041_KjbL0BxBJjLQ"
+         },
+         {
             "Name": "Miljon",
             "ProfilePicture": "miljon.png",
             "Discord": "285736449620574209",
@@ -851,7 +842,7 @@
             "Name": "Praunt",
             "ProfilePicture": "Praunt.png",
             "Discord": "624782493262020608",
-            "GitHub": null,
+            "GitHub": "Prauntt",
             "Twitch": "praunt",
             "Twitter": "prauntt",
             "YouTube": "UCFoyT4_2tMf6NHaImQ3dsKg"
