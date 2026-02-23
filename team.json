@@ -36,6 +36,7 @@
          {
             "Name": "JiveOff",
             "ProfilePicture": "jiveoff.png",
+            "ScoreSaberID": "76561198278902434",
             "Discord": "186156892379283456",
             "GitHub": "JiveOff",
             "Twitch": "jiveoff",
@@ -45,6 +46,7 @@
          {
             "Name": "byhemechi",
             "ProfilePicture": "byhemechi.png",
+            "ScoreSaberID": "76561198101382389",
             "Discord": "331280652320112641",
             "GitHub": "byhemechi",
             "Twitch": "byhemechi",
@@ -54,6 +56,7 @@
          {
             "Name": "Dannypoke03",
             "ProfilePicture": "dannypoke03.png",
+            "ScoreSaberID": "76561198118969924",
             "Discord": "250204546943418368",
             "GitHub": "Dannypoke03",
             "Twitch": "dannypoke03",
@@ -75,6 +78,7 @@
          {
             "Name": "Auros",
             "ProfilePicture": "auros.png",
+            "ScoreSaberID": "76561198088728803",
             "Discord": "218571218545016832",
             "GitHub": "Auros",
             "Twitch": "AurosVR",
@@ -94,6 +98,7 @@
          {
             "Name": "Speecil",
             "ProfilePicture": "speecil.png",
+            "ScoreSaberID": "3033139560125578",
             "Discord": "532063399069351947",
             "GitHub": "speecil",
             "Twitch": "speecil",
@@ -115,6 +120,7 @@
          {
             "Name": "Wyxi",
             "ProfilePicture": "wyxi.png",
+            "ScoreSaberID": "76561198009374354",
             "Discord": "163386937242157056",
             "GitHub": "wyxi1",
             "Twitch": "wyxi1",
@@ -124,6 +130,7 @@
          {
             "Name": "Sc2ad",
             "ProfilePicture": "sc2ad.png",
+            "ScoreSaberID": "76561198054100852",
             "Discord": "134482734771994624",
             "GitHub": "sc2ad",
             "Twitch": "sc2ad",
@@ -133,6 +140,7 @@
          {
             "Name": "Rabbit",
             "ProfilePicture": "rabbit.png",
+            "ScoreSaberID": "76561198118275445",
             "Discord": "98175697805144064",
             "GitHub": "PlusOneRabbit",
             "Twitch": "plusonerabbit",
@@ -152,6 +160,7 @@
          {
             "Name": "Checkthepan",
             "ProfilePicture": "checkthepan.gif",
+            "ScoreSaberID": "76561197987180921",
             "Discord": "184355369189900290",
             "GitHub": null,
             "Twitch": "checkthepan",
@@ -185,6 +194,7 @@
          {
             "Name": "Alice",
             "ProfilePicture": "alice.png",
+            "ScoreSaberID": "76561198038084750",
             "Discord": "70788202327179264",
             "GitHub": null,
             "Twitch": "alicexiv",
@@ -194,6 +204,7 @@
          {
             "Name": "Amanatsu",
             "ProfilePicture": "amanatsu.png",
+            "ScoreSaberID": "76561197978021272",
             "Discord": "145838716877930496",
             "GitHub": null,
             "Twitch": "amanatsu",
@@ -203,6 +214,7 @@
          {
             "Name": "Trolav",
             "ProfilePicture": "trolav.gif",
+            "ScoreSaberID": "76561198046339638",
             "Discord": "200715099323891716",
             "GitHub": "DonTrolav",
             "Twitch": "trolav",
@@ -212,6 +224,7 @@
          {
             "Name": "Uninstaller",
             "ProfilePicture": "uninstaller.png",
+            "ScoreSaberID": "76561198065813548",
             "Discord": "84840552935194624",
             "GitHub": null,
             "Twitch": "uninstaller_",
@@ -221,6 +234,7 @@
          {
             "Name": "yabje",
             "ProfilePicture": "yabje.png",
+            "ScoreSaberID": "76561198848329343",
             "Discord": "397816897963294740",
             "GitHub": "yabje",
             "Twitch": "yabje0_0",
@@ -232,6 +246,7 @@
          {
             "Name": "Aimedhades16",
             "ProfilePicture": "hades.png",
+            "ScoreSaberID": "76561198388337985",
             "Discord": "269208685077594112",
             "GitHub": null,
             "Twitch": "aimedhades16",
@@ -241,6 +256,7 @@
          {
             "Name": "Aithke",
             "ProfilePicture": "aithke.gif",
+            "ScoreSaberID": "76561198253561154",
             "Discord": "261635966341480470",
             "GitHub": null,
             "Twitch": "aithke",
@@ -250,6 +266,7 @@
          {
             "Name": "Alice",
             "ProfilePicture": "alice.png",
+            "ScoreSaberID": "76561198038084750",
             "Discord": "70788202327179264",
             "GitHub": null,
             "Twitch": "alicexiv",
@@ -259,6 +276,7 @@
          {
             "Name": "Amanatsu",
             "ProfilePicture": "amanatsu.png",
+            "ScoreSaberID": "76561197978021272",
             "Discord": "145838716877930496",
             "GitHub": null,
             "Twitch": "amanatsu",
@@ -268,6 +286,7 @@
          {
             "Name": "Azurii",
             "ProfilePicture": "contributerazurii.png",
+            "ScoreSaberID": "76561199151638763",
             "Discord": "712495475067977759",
             "GitHub": null,
             "Twitch": "azurii83",
@@ -277,6 +296,7 @@
          {
             "Name": "Bitz",
             "ProfilePicture": "bitz.png",
+            "ScoreSaberID": "76561197992369547",
             "Discord": "172410617066422273",
             "GitHub": null,
             "Twitch": "gbitz",
@@ -286,6 +306,7 @@
          {
             "Name": "Cobayo",
             "ProfilePicture": "cobayo.png",
+            "ScoreSaberID": "76561198410945106",
             "Discord": "242051945999630336",
             "GitHub": null,
             "Twitch": "wdg_cobayo",
@@ -295,6 +316,7 @@
          {
             "Name": "CoolingCloset",
             "ProfilePicture": "coolingcloset.png",
+            "ScoreSaberID": "76561198180044686",
             "Discord": "181291351315316736",
             "GitHub": null,
             "Twitch": "coolingcloset",
@@ -304,6 +326,7 @@
          {
             "Name": "dibl",
             "ProfilePicture": "dibl.png",
+            "ScoreSaberID": "76561198353055027",
             "Discord": "354471199805407232",
             "GitHub": null,
             "Twitch": "dibll",
@@ -314,6 +337,7 @@
             "Name": "eZconfirmed",
             "ProfilePicture": "ezconfirmed.png",
             "Discord": "343415744324960256",
+            "ScoreSaberID": "76561198130962331",
             "GitHub": null,
             "Twitch": "ezconfirmed",
             "Twitter": "ezconfirmed",
@@ -322,6 +346,7 @@
          {
             "Name": "fvrwvrd",
             "ProfilePicture": "fvrwvrd.png",
+            "ScoreSaberID": "76561198240009262",
             "Discord": "863525580079235132",
             "GitHub": null,
             "Twitch": "fvrwvrd",
@@ -331,6 +356,7 @@
          {
             "Name": "fqrb",
             "ProfilePicture": "fqrb.png",
+            "ScoreSaberID": "76561199003586234",
             "Discord": "331490163739983872",
             "GitHub": "fqrb",
             "Twitch": "fqrbi",
@@ -340,6 +366,7 @@
          {
             "Name": "Hener",
             "ProfilePicture": "hener.png",
+            "ScoreSaberID": "76561199070712326",
             "Discord": "339551469026017282",
             "GitHub": null,
             "Twitch": "hener_vr",
@@ -349,6 +376,7 @@
          {
             "Name": "Hexagonial",
             "ProfilePicture": "hexagonial.png",
+            "ScoreSaberID": "76561198220149073",
             "Discord": "221442943045599232",
             "GitHub": null,
             "Twitch": "hexxygonial",
@@ -358,6 +386,7 @@
          {
             "Name": "Komeijisan051",
             "ProfilePicture": "Komeiji.png",
+            "ScoreSaberID": "76561199033287640",
             "Discord": "682402385829691393",
             "GitHub": null,
             "Twitch": "komeiji_san051",
@@ -367,6 +396,7 @@
          {
             "Name": "Marsh",
             "ProfilePicture": "marsh.png",
+            "ScoreSaberID": "1477469542377599",
             "Discord": "559354077289513017",
             "GitHub": null,
             "Twitch": "marsh_era",
@@ -376,6 +406,7 @@
          {
             "Name": "Mr_bjo",
             "ProfilePicture": "bjo.png",
+            "ScoreSaberID": "76561198305748823",
             "Discord": "371002487219683348",
             "GitHub": null,
             "Twitch": "mr_bjo",
@@ -385,6 +416,7 @@
          {
             "Name": "muffn",
             "ProfilePicture": "muffn.png",
+            "ScoreSaberID": "76561198095106486",
             "Discord": "219099186505711616",
             "GitHub": null,
             "Twitch": "nomuffn",
@@ -394,6 +426,7 @@
          {
             "Name": "Nina Vila",
             "ProfilePicture": "vila.png",
+            "ScoreSaberID": "76561198154857191",
             "Discord": "348917611150704641",
             "GitHub": null,
             "Twitch": "vilawess",
@@ -403,6 +436,7 @@
          {
             "Name": "Olaf",
             "ProfilePicture": "olaf.png",
+            "ScoreSaberID": "76561198170634587",
             "Discord": "341971173116084224",
             "GitHub": null,
             "Twitch": "olafstad",
@@ -412,6 +446,7 @@
          {
             "Name": "Potassium 737",
             "ProfilePicture": "potassium.jpg",
+            "ScoreSaberID": "76561199177591379",
             "Discord": "823564073547464795",
             "GitHub": null,
             "Twitch": "potassium737",
@@ -421,6 +456,7 @@
          {
             "Name": "Purp1e",
             "ProfilePicture": "purp1e.png",
+            "ScoreSaberID": "76561198946533547",
             "Discord": "537745391412838411",
             "GitHub": "purp1edev",
             "Twitch": "purp1elive",
@@ -440,6 +476,7 @@
          {
             "Name": "RocKz",
             "ProfilePicture": "rockz.png",
+            "ScoreSaberID": "76561198105228823",
             "Discord": "190107137463025665",
             "GitHub": null,
             "Twitch": "lrockz",
@@ -449,6 +486,7 @@
          {
             "Name": "shrado",
             "ProfilePicture": "shrado.png",
+            "ScoreSaberID": "76561198143307741",
             "Discord": "176831918166376449",
             "GitHub": null,
             "Twitch": "shrado",
@@ -458,6 +496,7 @@
          {
             "Name": "Slayx",
             "ProfilePicture": "slayx.png",
+            "ScoreSaberID": "76561198347652574",
             "Discord": "404182315611455503",
             "GitHub": null,
             "Twitch": "slayx0",
@@ -467,6 +506,7 @@
          {
             "Name": "ThySpoon",
             "ProfilePicture": "thyspoon.png",
+            "ScoreSaberID": "76561198983873005",
             "Discord": "247521066753327126",
             "GitHub": null,
             "Twitch": "ThySpoone",
@@ -476,6 +516,7 @@
          {
             "Name": "Timbo",
             "ProfilePicture": "timbo.png",
+            "ScoreSaberID": "76561198080297892",
             "Discord": "123836315903983620",
             "GitHub": null,
             "Twitch": "timbo_x3",
@@ -485,6 +526,7 @@
          {
             "Name": "Trolav",
             "ProfilePicture": "trolav.gif",
+            "ScoreSaberID": "76561198046339638",
             "Discord": "200715099323891716",
             "GitHub": "DonTrolav",
             "Twitch": "trolav",
@@ -494,6 +536,7 @@
          {
             "Name": "Uninstaller",
             "ProfilePicture": "uninstaller.png",
+            "ScoreSaberID": "76561198065813548",
             "Discord": "84840552935194624",
             "GitHub": null,
             "Twitch": "uninstaller_",
@@ -503,6 +546,7 @@
          {
             "Name": "voltage",
             "ProfilePicture": "voltage.png",
+            "ScoreSaberID": "76561199157065937",
             "Discord": "842675585477246986",
             "GitHub": null,
             "Twitch": "voltageo",
@@ -512,6 +556,7 @@
          {
             "Name": "Xhera",
             "ProfilePicture": "xhera.gif",
+            "ScoreSaberID": "76561198088831607",
             "Discord": "864906373643632682",
             "GitHub": null,
             "Twitch": "xhera",
@@ -521,6 +566,7 @@
          {
             "Name": "xScaramouche",
             "ProfilePicture": "xscaramouche.png",
+            "ScoreSaberID": "76561198223976932",
             "Discord": "227538798387527680",
             "GitHub": null,
             "Twitch": null,
@@ -530,6 +576,7 @@
          {
             "Name": "yabje",
             "ProfilePicture": "yabje.png",
+            "ScoreSaberID": "76561198848329343",
             "Discord": "397816897963294740",
             "GitHub": "yabje",
             "Twitch": "yabje0_0",
@@ -539,6 +586,7 @@
          {
             "Name": "Zana",
             "ProfilePicture": "zana.png",
+            "ScoreSaberID": "76561198272028078",
             "Discord": "486308009652387841",
             "GitHub": null,
             "Twitch": "zanalukosius",
@@ -550,6 +598,7 @@
          {
             "Name": "Aithke",
             "ProfilePicture": "aithke.gif",
+            "ScoreSaberID": "76561198253561154",
             "Discord": "261635966341480470",
             "GitHub": null,
             "Twitch": "aithke",
@@ -559,6 +608,7 @@
          {
             "Name": "astrella",
             "ProfilePicture": "astrella.png",
+            "ScoreSaberID": "2538637699496776",
             "Discord": "184355369189900290",
             "GitHub": null,
             "Twitch": "astrella_",
@@ -568,6 +618,7 @@
          {
             "Name": "aquaflee",
             "ProfilePicture": "aqua.png",
+            "ScoreSaberID": "76561198960449289",
             "Discord": "386558897655250947",
             "GitHub": null,
             "Twitch": "aquaflee",
@@ -577,6 +628,7 @@
          {
             "Name": "Bantalope",
             "ProfilePicture": "bantalope.png",
+            "ScoreSaberID": "76561198179181242",
             "Discord": "260502929604214784",
             "GitHub": null,
             "Twitch": "bantaloop",
@@ -586,6 +638,7 @@
          {
             "Name": "Bitz",
             "ProfilePicture": "bitz.png",
+            "ScoreSaberID": "76561197992369547",
             "Discord": "172410617066422273",
             "GitHub": null,
             "Twitch": "gbitz",
@@ -595,6 +648,7 @@
          {
             "Name": "CoolingCloset",
             "ProfilePicture": "coolingcloset.png",
+            "ScoreSaberID": "76561198180044686",
             "Discord": "181291351315316736",
             "GitHub": null,
             "Twitch": "coolingcloset",
@@ -604,6 +658,7 @@
          {
             "Name": "FatBeanzoop",
             "ProfilePicture": "fatbeanzoop.png",
+            "ScoreSaberID": "76561198045559635",
             "Discord": "191451523845193728",
             "GitHub": null,
             "Twitch": "fatbeanzoop",
@@ -613,6 +668,7 @@
          {
             "Name": "Fnyt",
             "ProfilePicture": "fnyt.png",
+            "ScoreSaberID": "76561198212019365",
             "Discord": "184540171859918848",
             "GitHub": null,
             "Twitch": "fnyt",
@@ -622,6 +678,7 @@
          {
             "Name": "fvrwvrd",
             "ProfilePicture": "fvrwvrd.png",
+            "ScoreSaberID": "76561198240009262",
             "Discord": "863525580079235132",
             "GitHub": null,
             "Twitch": "fvrwvrd",
@@ -631,6 +688,7 @@
          {
             "Name": "Helloiamdaan",
             "ProfilePicture": "daan.png",
+            "ScoreSaberID": "76561198262936914",
             "Discord": "581578919116013572",
             "GitHub": null,
             "Twitch": "helloiamdaan",
@@ -640,6 +698,7 @@
          {
             "Name": "Joshabi",
             "ProfilePicture": "joshabi.png",
+            "ScoreSaberID": "76561198138161802",
             "Discord": "169894107517419520",
             "GitHub": "Joshabi",
             "Twitch": "joshabi",
@@ -649,6 +708,7 @@
          {
             "Name": "Klondike",
             "ProfilePicture": "klondike.png",
+            "ScoreSaberID": "76561198145728266",
             "Discord": "614595563349999745",
             "GitHub": null,
             "Twitch": "klondikevr",
@@ -658,6 +718,7 @@
          {
             "Name": "LemoNade",
             "ProfilePicture": "lemonade.png",
+            "ScoreSaberID": "76561198211726521",
             "Discord": "275218075916304386",
             "GitHub": null,
             "Twitch": "lemo_nade__",
@@ -665,8 +726,19 @@
             "YouTube": "R0taGMi07LZFnAt0MLQ"
          },
          {
+            "Name": "Mayple",
+            "ProfilePicture": "Mayple.png",
+            "ScoreSaberID": "76561198265369367",
+            "Discord": "718895749420810349",
+            "GitHub": null,
+            "Twitch": "mayplee_",
+            "Twitter": "Mayplee__",
+            "YouTube": "UCvKwdnbqL8Fb179xqSUAZkw"
+         },
+         {
             "Name": "Namoori",
             "ProfilePicture": "namoori.png",
+            "ScoreSaberID": "76561198165716592",
             "Discord": "485104549183356939",
             "GitHub": null,
             "Twitch": "namoori_",
@@ -676,6 +748,7 @@
          {
             "Name": "Nolanimations",
             "ProfilePicture": "nolanimations.gif",
+            "ScoreSaberID": "76561198082797048",
             "Discord": "273773715412746241",
             "GitHub": "nolanimations",
             "Twitch": "nolanimations",
@@ -685,6 +758,7 @@
          {
             "Name": "Purp1e",
             "ProfilePicture": "purp1e.png",
+            "ScoreSaberID": "76561198946533547",
             "Discord": "537745391412838411",
             "GitHub": "purp1edev",
             "Twitch": "purp1elive",
@@ -704,6 +778,7 @@
          {
             "Name": "riasuh",
             "ProfilePicture": "riasuh.png",
+            "ScoreSaberID": "1984389848326752",
             "Discord": "864941476013670410",
             "GitHub": "riasuh",
             "Twitch": "riasuh",
@@ -713,6 +788,7 @@
          {
             "Name": "Rocker",
             "ProfilePicture": "rocker.gif",
+            "ScoreSaberID": "76561198166289091",
             "Discord": "132449590527000576",
             "GitHub": null,
             "Twitch": "rocker1904",
@@ -722,6 +798,7 @@
          {
             "Name": "Timbo",
             "ProfilePicture": "timbo.png",
+            "ScoreSaberID": "76561198080297892",
             "Discord": "123836315903983620",
             "GitHub": null,
             "Twitch": "timbo_x3",
@@ -731,6 +808,7 @@
          {
             "Name": "Tranch",
             "ProfilePicture": "tranch.png",
+            "ScoreSaberID": "76561198313983208",
             "Discord": "212317530860158979",
             "GitHub": null,
             "Twitch": "tranch",
@@ -740,26 +818,19 @@
          {
             "Name": "Tseska",
             "ProfilePicture": "tseska.png",
+            "ScoreSaberID": "76561198362923485",
             "Discord": "386142373622841344",
             "GitHub": null,
             "Twitch": "tseska_",
             "Twitter": null,
             "YouTube": null
-         },
-         {
-            "Name": "Mayple",
-            "ProfilePicture": "Mayple.png",
-            "Discord": "718895749420810349",
-            "GitHub": null,
-            "Twitch": "mayplee_",
-            "Twitter": "Mayplee__",
-            "YouTube": "UCvKwdnbqL8Fb179xqSUAZkw"
          }
       ],
       "CAT": [
          {
             "Name": "Amanatsu",
             "ProfilePicture": "amanatsu.png",
+            "ScoreSaberID": "76561197978021272",
             "Discord": "145838716877930496",
             "GitHub": null,
             "Twitch": "amanatsu",
@@ -769,6 +840,7 @@
          {
             "Name": "Uninstaller",
             "ProfilePicture": "uninstaller.png",
+            "ScoreSaberID": "76561198065813548",
             "Discord": "84840552935194624",
             "GitHub": null,
             "Twitch": "uninstaller_",
@@ -778,6 +850,7 @@
          {
             "Name": "Fern",
             "ProfilePicture": "fern.png",
+            "ScoreSaberID": "76561198163862964",
             "Discord": "161202739949338625",
             "GitHub": null,
             "Twitch": "notfernyx",
@@ -789,6 +862,7 @@
          {
             "Name": "Andrea",
             "ProfilePicture": "andrea.png",
+            "ScoreSaberID": "76561198147091826",
             "Discord": "634605722461798410",
             "GitHub": null,
             "Twitch": "andreahikono",
@@ -798,6 +872,7 @@
          {
             "Name": "BigOlDumplin",
             "ProfilePicture": "bigoldumplin.png",
+            "ScoreSaberID": "76561198326089365",
             "Discord": "579018678280912906",
             "GitHub": null,
             "Twitch": "bigoldumplin",
@@ -807,6 +882,7 @@
          {
             "Name": "Bitz",
             "ProfilePicture": "bitz.png",
+            "ScoreSaberID": "76561197992369547",
             "Discord": "172410617066422273",
             "GitHub": null,
             "Twitch": "gbitz",
@@ -816,6 +892,7 @@
          {
             "Name": "byhemechi",
             "ProfilePicture": "byhemechi.png",
+            "ScoreSaberID": "76561198101382389",
             "Discord": "331280652320112641",
             "GitHub": "byhemechi",
             "Twitch": "byhemechi",
@@ -825,6 +902,7 @@
          {
             "Name": "HondorusOptix",
             "ProfilePicture": "HondorusOptix.png",
+            "ScoreSaberID": "76561198993921362",
             "Discord": "589583533341671443",
             "GitHub": null,
             "Twitch": null,
@@ -834,6 +912,7 @@
          {
             "Name": "Miljon",
             "ProfilePicture": "miljon.png",
+            "ScoreSaberID": "76561198837548711",
             "Discord": "285736449620574209",
             "GitHub": null,
             "Twitch": "miljon",
@@ -843,6 +922,7 @@
          {
             "Name": "Mr_bjo",
             "ProfilePicture": "bjo.png",
+            "ScoreSaberID": "76561198305748823",
             "Discord": "371002487219683348",
             "GitHub": null,
             "Twitch": "mr_bjo",
@@ -852,6 +932,7 @@
          {
             "Name": "Praunt",
             "ProfilePicture": "Praunt.png",
+            "ScoreSaberID": "76561198826094646",
             "Discord": "624782493262020608",
             "GitHub": "Prauntt",
             "Twitch": "praunt",
@@ -861,6 +942,7 @@
          {
             "Name": "RaccoonVR",
             "ProfilePicture": "raccoonvr.png",
+            "ScoreSaberID": "76561198356790410",
             "Discord": "693932079678750720",
             "GitHub": "raccoonvr321",
             "Twitch": "raccoonvr",
@@ -870,6 +952,7 @@
          {
             "Name": "Spoekle",
             "ProfilePicture": "spoekle.png",
+            "ScoreSaberID": "76561199003506713",
             "Discord": "435825557087977492",
             "GitHub": "Spoekle",
             "Twitch": "spoekle",
@@ -879,6 +962,7 @@
          {
             "Name": "voltage",
             "ProfilePicture": "voltage.png",
+            "ScoreSaberID": "76561199157065937",
             "Discord": "842675585477246986",
             "GitHub": null,
             "Twitch": "voltageo",
@@ -888,6 +972,7 @@
          {
             "Name": "yabje",
             "ProfilePicture": "yabje.png",
+            "ScoreSaberID": "76561198848329343",
             "Discord": "397816897963294740",
             "GitHub": "yabje",
             "Twitch": "yabje0_0",
